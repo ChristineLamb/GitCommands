@@ -1,0 +1,8 @@
+pushes local changes to a repository
+
+```
+git push <repository name> <branch name>
+
+for example:
+
+git push GitCommands main
